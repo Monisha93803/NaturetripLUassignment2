@@ -1,0 +1,44 @@
+body {
+    background-image: url("images/for2.jpg");
+    height: 100%;
+    height: auto;
+}
+
+hr {
+    height: 9px solid white;
+    color: white;
+}
+
+h1,
+h3 {
+    color: white;
+}
+
+.nav-area {
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.nav-area li {
+    display: inline-block;
+}
+
+.nav-area li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: poppins;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.nav-area li a:hover {
+    background: #fff;
+    color: #333;
+}
+
+#contactus {
+    padding: 10px;
+    border-radius: 10px;
+}
